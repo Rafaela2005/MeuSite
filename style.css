@@ -1,0 +1,44 @@
+body{
+ background-image: url(depositphotos_2074457-stock-photo-doing-some-grade-school-math.jpg)
+
+}
+
+.título{
+ color: blue;
+
+}
+
+.input1 {
+ background-color: rgb(87, 2, 75);
+ border: 0;
+ height: 30px;
+ border-radius: 10px;
+ color: rgb(235, 96, 4);
+ font-size: 20px;
+
+}
+
+.input2{
+ background-color:rgb(87, 2, 75) ;
+ border: 0;
+ height: 30px;
+ border-radius: 10px;
+ color: rgb(235, 96, 4);
+ font-size: 20px; 
+
+}
+
+.botao{
+    background-color: aquamarine;
+    color: rgb(173, 20, 20);
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+.botao:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
